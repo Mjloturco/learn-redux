@@ -31,7 +31,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      - name: Checkmarx Scan
-        # You may pin to the exact commit or the version.
-        # uses: checkmarx-ts/checkmarx-github-action@bb9101ed82fa9485fe5c6677f5608c3a8c077f25
-        uses: checkmarx-ts/checkmarx-github-action@v1.0.3
+
